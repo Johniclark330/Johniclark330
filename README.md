@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on non ya
-- 📫 How to reach me you can't
+- 📫 How to reach me, you can't
 
 <!---
 Johniclark330/Johniclark330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
